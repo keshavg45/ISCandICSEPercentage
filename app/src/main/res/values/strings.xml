@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ISC and ICSE Percentage Calculator</string>
+    <string name="hello_world_text">Hello Universe!</string>
+
+    <string-array name="subjects1">
+        <item>MATHS:</item>
+        <item>BST:</item>
+    </string-array>
+
+    <string-array name="subjects2">
+        <item>COMPUTER:</item>
+        <item>HINDI:</item>
+        <item>P.ED:</item>
+    </string-array>
+
+    <string-array name="subjects3">
+        <item>HINDI:</item>
+        <item>BENGALI:</item>
+    </string-array>
+
+    <string-array name="subjects4">
+        <item>COMPUTER:</item>
+        <item>ECONOMICS:</item>
+    </string-array>
+
+</resources>
+
